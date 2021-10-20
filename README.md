@@ -1,2 +1,2 @@
-# mamory card game
+# memory card game
 game

@@ -1,2 +1,2 @@
-# project
+# mamory card game
 game
